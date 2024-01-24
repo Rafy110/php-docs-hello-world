@@ -8,11 +8,11 @@
         body {
             margin: 0;
             padding: 0;
+            height: 100vh;
+            overflow: auto;
             display: flex;
             align-items: center;
             justify-content: center;
-            height: 100vh;
-            overflow: hidden;
         }
 
         img {
