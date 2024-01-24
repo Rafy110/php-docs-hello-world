@@ -1,6 +1,6 @@
 <?php
 
 echo "Hello Azure!";
-break;
+</br>;
 echo "Hello Rafi";
 ?>
