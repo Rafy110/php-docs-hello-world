@@ -22,6 +22,6 @@
     </style>
 </head>
 <body>
-    <img src="https://github.com/Rafy110/php-docs-hello-world/Home.png" alt="JBS Co Comming Soon">
+    <img src="Home.png" alt="JBS Co Comming Soon">
 </body>
 </html>
